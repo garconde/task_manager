@@ -1,0 +1,31 @@
+.project-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-card h3 {
+    margin-top: 0;
+  }
+  
+  .project-card button {
+    margin: 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .project-card .edit-project {
+    background-color: #f0ad4e;
+    color: white;
+  }
+  
+  .project-card .delete-project {
+    background-color: #d9534f;
+    color: white;
+  }
+  
